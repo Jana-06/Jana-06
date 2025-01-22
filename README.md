@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Jana-06
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 👀 I’m interested in programing 
+- 🌱 I’m currently exploring artificial intelligence
 - 💞️ I’m looking to collaborate on data science and artificial intelligence 
-- 📫 How to reach me through mail and WhatsApp o
+- 📫 How to reach me through mail and WhatsApp => 10cjanarthansrvspm@gmail.com
 - 😄 Pronouns: __
 - ⚡ Fun fact: 🤣
 
